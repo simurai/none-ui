@@ -1,2 +1,5 @@
-# none-ui
-None UI theme for Atom
+# None UI theme for Atom
+
+> Warning! Don't use for real
+
+This theme has **no** styling. It's only meant for testing Atom "theme-less".

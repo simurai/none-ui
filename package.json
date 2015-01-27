@@ -1,0 +1,11 @@
+{
+  "name": "none-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "None UI theme for Atom",
+  "license": "MIT",
+  "repository": "https://github.com/simurai/none-ui",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
